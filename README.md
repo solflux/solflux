@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Full-Stack Developer / Solutions Architect working in Bristol, UK
-- 🔭 I’m currently working as a API Architect in Financial Services
-- 🌱 I’m currently learning React and Scala
+I'm a Software Engineer and Solutions Architect working in Bristol, UK
+- 🔭 I’m currently working as an API Architect in Financial Services
+- 🌱 I’m currently experimenting with Flutter
 - 💬 Ask me about Open API or Contract Testing
